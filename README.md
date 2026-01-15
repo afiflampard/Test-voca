@@ -48,22 +48,29 @@ Once the application is running, you will see a menu with the following commands
 ## Screenshots
 
 ### 1. Initialize Parking Lot
-![Init Parking Lot](https://github.com/user-attachments/assets/28928135-6beb-41c1-9051-e3b7af1f668a)
+<img width="270" height="172" alt="1" src="https://github.com/user-attachments/assets/5e33e093-7fb9-4e52-8de0-38ac6bb8f90b" />
+
 
 ### 2. Park a Car
-![Park Car](https://github.com/user-attachments/assets/3f1e2408-e0c2-4e61-8891-5c7d4792de21)
+<img width="221" height="344" alt="2" src="https://github.com/user-attachments/assets/e75e8907-996d-4555-b39d-262512b102fa" />
+
 
 ### 3. Parking Lot Full
-![Parking Full](https://github.com/user-attachments/assets/c0eb2b30-dae5-4ff2-a653-892df54ff5a0)
+<img width="257" height="169" alt="3" src="https://github.com/user-attachments/assets/ddafe768-0f2e-47e7-a7a4-dcbb272815de" />
+
 
 ### 4. Status Check
-![Status](https://github.com/user-attachments/assets/9cc1794a-9b89-473b-a8e4-60305e65e412)
+<img width="199" height="180" alt="4" src="https://github.com/user-attachments/assets/19a02a95-06ef-43cf-82ca-ccbc0a5aa135" />
+
 
 ### 5. Leave Parking Lot
-![Leave](https://github.com/user-attachments/assets/4d94fc9d-ba85-475d-9c6f-5af684c560d6)
+<img width="532" height="235" alt="5" src="https://github.com/user-attachments/assets/86c66049-e6a8-4685-9fe4-245ef26994c3" />
+
 
 ### 6. Status After Leaving
-![Status After Leave](https://github.com/user-attachments/assets/8315110d-8443-4514-a866-1f0b5fa4fa87)
+<img width="168" height="171" alt="6" src="https://github.com/user-attachments/assets/6a9c9796-c1d4-4240-a509-59bd8ade2150" />
+
 
 ### 7. Re-allocate Slot
-![Re-park](https://github.com/user-attachments/assets/15ff5fce-3160-4ead-9e3c-3692455bb18b)
+<img width="207" height="244" alt="7" src="https://github.com/user-attachments/assets/0caf339b-7de8-449e-b557-ddbab3747009" />
+
